@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 560" role="img" aria-label="10/05 Option S 班戈 -&gt; 圣象天门 -&gt; 当雄">
+<defs>
+<style>
+.bg{fill:#f5efe3} .plot{fill:#fbf8f0;stroke:#d4c6ad;stroke-width:1}
+.grid line{stroke:#d7cbb7;stroke-width:.8;opacity:.75} .grid-label{fill:#776e63;font:12px Arial,"Microsoft YaHei",sans-serif}
+.title{fill:#201d19;font:700 26px Arial,"Microsoft YaHei",sans-serif} .sub{fill:#756b5f;font:13px Arial,"Microsoft YaHei",sans-serif}
+.route{fill:none;stroke:#245a73;stroke-width:5.2;stroke-linecap:round;stroke-linejoin:round} .route.dashed{stroke:#8b2f2a;stroke-dasharray:14 11} .route.muted{stroke:#9a8b76;stroke-width:3.8;opacity:.7}
+.marker circle{fill:#f7f1e7;stroke:#8b2f2a;stroke-width:2.8} .marker-num{fill:#8b2f2a;text-anchor:middle;font:700 11px Arial,sans-serif}
+.marker-label{fill:#201d19;font:700 14px Arial,"Microsoft YaHei",sans-serif;paint-order:stroke;stroke:#fbf8f0;stroke-width:4px} .note{fill:#5f574e;font:13px Arial,"Microsoft YaHei",sans-serif}
+</style>
+</defs>
+<rect class="bg" width="920" height="560"/><text class="title" x="56" y="42">10/05 Option S 班戈 -&gt; 圣象天门 -&gt; 当雄</text>
+<text class="sub" x="56" y="66">真实经纬度；可取得时使用 OSM/OSRM 路网几何；不替代当天导航或景区准入确认。</text>
+<rect class="plot" x="56" y="82" width="808" height="418"/>
+<g class="grid"><line x1="56.0" y1="82" x2="56.0" y2="500" /><text x="60.0" y="528" class="grid-label">89.8E</text><line x1="258.0" y1="82" x2="258.0" y2="500" /><text x="262.0" y="528" class="grid-label">90.2E</text><line x1="460.0" y1="82" x2="460.0" y2="500" /><text x="464.0" y="528" class="grid-label">90.6E</text><line x1="662.0" y1="82" x2="662.0" y2="500" /><text x="666.0" y="528" class="grid-label">90.9E</text><line x1="864.0" y1="82" x2="864.0" y2="500" /><text x="868.0" y="528" class="grid-label">91.3E</text><line x1="56" y1="82.0" x2="864" y2="82.0" /><text x="16" y="86.0" class="grid-label">31.5N</text><line x1="56" y1="221.3" x2="864" y2="221.3" /><text x="16" y="225.3" class="grid-label">31.1N</text><line x1="56" y1="360.7" x2="864" y2="360.7" /><text x="16" y="364.7" class="grid-label">30.7N</text><line x1="56" y1="500.0" x2="864" y2="500.0" /><text x="16" y="504.0" class="grid-label">30.3N</text></g><polyline class="route dashed" points="153.9,110.3 433.0,324.2 766.1,449.7" /><g class="marker"><circle cx="153.9" cy="110.3" r="8"/><text x="153.9" y="114.3" class="marker-num">1</text><text x="165.9" y="94.3" class="marker-label">班戈</text></g><g class="marker"><circle cx="433.0" cy="324.2" r="8"/><text x="433.0" y="328.2" class="marker-num">2</text><text x="445.0" y="308.2" class="marker-label">圣象天门</text></g><g class="marker"><circle cx="766.1" cy="449.7" r="8"/><text x="766.1" y="453.7" class="marker-num">3</text><text x="778.1" y="433.7" class="marker-label">当雄</text></g>
+<text class="note" x="62" y="516"><tspan x="62" dy="0">2026指定绕行约87.5 km；未取得可靠几何前只画地理关系。</tspan></text></svg>
